@@ -5,5 +5,5 @@ pypdf2
 faiss-cpu
 openai
 huggingface_hub
-sentencetransformers
+sentence-transformers
 InstructorEmbedding
